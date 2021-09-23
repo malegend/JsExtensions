@@ -4,8 +4,8 @@ Useful C# style javascript extension components.
 ## Array Extensions.
 The sequence extensions, like Linq functions of C#.
 
-*For example
-** C# codes.
+Examples:
+* C# codes.
 ``` 
 
 class Element
@@ -31,7 +31,7 @@ var sc=arr.Where(p=>p.Score>=8);
 var st=arr.OrderBy(p=>p.Score);
 ```
 
-** js codes.
+* js codes.
 ``` 
 let arr = [];
 arr.push({id:5, name:Jack", score:5});
